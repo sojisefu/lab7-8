@@ -1,7 +1,6 @@
 class Blowfish extends Fish {
     private boolean isPoisonous;
 
-    // Constructors
     public Blowfish() {
         super();
         this.isPoisonous = true;
